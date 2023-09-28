@@ -1,0 +1,35 @@
+h1, h2, h3, h4, h5, h6, p{
+    font-display: center;
+    color: #631616;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    background-image: url(https://live.staticflickr.com/5477/12268650816_05502e1aa5_b.jpg);
+    background-size: cover;
+}
+
+
+button{
+    border-radius: 50px;
+    background-color: rgba(237, 181, 92, 0.502);
+    text-decoration: #6316167e;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+label{
+    border-radius: 40px;
+    border-color: #7e252587;
+    background-color: #d99d354d;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    color: #631616;
+    
+}
+
+input{
+    background-color: #ea9a5485;
+    color: #631616;
+}
